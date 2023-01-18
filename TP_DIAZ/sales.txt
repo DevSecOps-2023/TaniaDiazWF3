@@ -1,0 +1,83 @@
+2
+7
+4
+6
+6
+1
+9
+8
+9
+9
+12
+1
+19
+19
+19
+0
+14
+11
+0
+0
+12
+4
+15
+12
+12
+19
+20
+3
+5
+5
+9
+18
+5
+5
+5
+8
+5
+5
+6
+6
+3
+18
+rtx3060:3
+rtx3070:0
+rtx3080:0
+rtx3090:8
+rx6700:13
+rtx3060:10
+rtx3070:3
+rtx3080:3
+rtx3090:7
+rx6700:19
+rtx3060:14
+rtx3070:7
+rtx3080:7
+rtx3090:1
+rx6700:14
+date de scraping : 03:18:26 -18-01-23
+rtx3060:16
+rtx3070:11
+rtx3080:11
+rtx3090:20
+rx6700:11
+date de scraping : 03:22:59 18-01-23
+rtx3060:15
+rtx3070:8
+rtx3080:8
+rtx3090:18
+rx6700:13
+date de scraping : 04:20:31 18-01-23
+date de scraping : 04:21:14 18-01-23
+date de scraping : 04:21:52 18-01-23
+Pourcentge de ventes rtx3060:4
+Pourcentge de ventes rtx3070:8
+Pourcentge de ventes rtx3080:8
+Pourcentge de ventes rtx3090:8
+Pourcentge de ventes rx6700:10
+date de scraping : 04:22:31 18-01-23
+Pourcentage de ventes rtx3060:15
+Pourcentage de ventes rtx3070:8
+Pourcentage de ventes rtx3080:8
+Pourcentage de ventes rtx3090:18
+Pourcentage de ventes rx6700:13
